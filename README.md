@@ -1,5 +1,8 @@
 # Income-Analysis
 Income Analysis Using Demographic Data
+
+https://github.com/Arishiine/Income-Analysis/blob/main/Salary.jpg
+
 ## Overview
 
 This project analyzes income levels using demographic data to identify key factors influencing earnings. We perform data cleaning, exploratory data analysis (EDA), and visualizations to uncover trends and disparities in income distribution.
