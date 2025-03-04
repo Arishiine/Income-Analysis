@@ -35,8 +35,14 @@ The dataset includes:
 
 ### Key Visualizations
 	1.	Education vs Salary – Higher education leads to higher earnings.
+ ![image](https://github.com/user-attachments/assets/533b46c4-bd0a-4f29-bfe5-b3c4c5f5fad3)
+
 	2.	Gender vs Salary – Males are overrepresented in the >50K category.
+ ![image](https://github.com/user-attachments/assets/17701e5c-1427-442d-80f0-b2df3a9c7be0)
+
 	3.	Work Hours vs Salary – Longer hours correlate with higher income, but job type matters more.
+ ![image](https://github.com/user-attachments/assets/f76b9783-f58e-4736-abae-2e336a86998c)
+
 
 ## Conclusion
 
