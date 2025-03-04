@@ -1,7 +1,7 @@
 # Income-Analysis
 Income Analysis Using Demographic Data
 
-https://github.com/Arishiine/Income-Analysis/blob/main/Salary.jpg
+![image](https://github.com/user-attachments/assets/51eabf4d-7f26-44b9-add8-324a4fe037dd)
 
 ## Overview
 
