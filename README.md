@@ -1,5 +1,5 @@
 # Income-Analysis
-Income Analysis Using Demographic Data
+Extensive Analysis of salaries - using demographic such as gender,age,race,education level etc.
 
 ![image](https://github.com/user-attachments/assets/51eabf4d-7f26-44b9-add8-324a4fe037dd)
 
